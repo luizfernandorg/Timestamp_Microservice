@@ -1,0 +1,30 @@
+{
+  "name": "timestamp_microservice",
+  "version": "1.0.0",
+  "description": "Example for the exercise from Freecodecamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizfernandorg/Timestamp_Microservice.git"
+  },
+  "keywords": [
+    "Timestamp",
+    "nodejs",
+    "freecodecamp\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C",
+    "microservices",
+    "\u001b[2~\u001b[2~nodejs",
+    "freecodecamp"
+  ],
+  "author": "Luiz Fernando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizfernandorg/Timestamp_Microservice/issues"
+  },
+  "homepage": "https://github.com/luizfernandorg/Timestamp_Microservice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
