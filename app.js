@@ -3,6 +3,9 @@ const app = express();
 
 app.get("/api/:date?", (req,res) => {
     const _param = req.params.date;
+    /**
+     * TODO: validate date in the format "25 october 2015"
+     */
     const fdate = /^[0-9]{4}\-[0-9]{2}\-[0-9]{2}$/;
     const udate = /^[0-9]{13}$/;
     console.log({ "msg" : req.params.date });
