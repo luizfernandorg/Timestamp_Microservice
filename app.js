@@ -11,5 +11,5 @@ app.get("/api/[0-9]{13}", (req, res) => {
 })
 var port = process.env.PORT || 3000;
 app.listen(port,() => {
-    console.log("Lisining...");
+    console.log(`Lisining on ${port}`);
 })
